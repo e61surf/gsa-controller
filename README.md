@@ -1,7 +1,7 @@
 # control
 Feel free to make use of the hardware and software designs here for your project. The board design utilizes:
-3 ST Micro motor drivers
-1 Lynx GPS Module
+3 ST Micro motor drivers,
+1 Lynx GPS Module, and
 1 Microchip BLE Module
 
 It is designed to fit into a Cinch ModeICE enclosure.
