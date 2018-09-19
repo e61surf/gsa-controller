@@ -1,0 +1,8 @@
+Command Listing:
+
+S=Reset mode (Works in all modes)
+A=Trim tab down (Only works when exactly one of the left / right tabs is extended; the extended tab is the one that is trimmed)
+B=Trim tab up (Only works when exactly one of the left / right tabs is extended; the extended tab is the one that is trimmed)
+W=Schedule wake transfer (Only works when exactly one of left / right tabs is extended)
+L=Surf Left (Only words from reset mode when neither tab is extended)
+R=Surf Right (Only words from reset mode when neither tab is extended)
