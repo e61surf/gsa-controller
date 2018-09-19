@@ -1,4 +1,4 @@
-# control
+# Surf System Controller - or whatever you want to control...
 Feel free to make use of the hardware and software designs here for your project. The board design utilizes:
 3 ST Micro motor drivers,
 1 Lynx GPS Module, and
