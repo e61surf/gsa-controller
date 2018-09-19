@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name surfcontrol)(type Legacy)(uri "$(KIPRJMOD)/surfcontrol.mod")(options "")(descr ""))
+  (lib (name "Surf Control")(type KiCad)(uri "$(KIPRJMOD)/Surf Control.pretty")(options "")(descr ""))
+)

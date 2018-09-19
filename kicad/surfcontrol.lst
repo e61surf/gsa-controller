@@ -1,0 +1,240 @@
+eeschema (2014-01-10 BZR 4027)-stable  >> Creation date: Wednesday, May 13, 2015 'pmt' 12:12:27 pm
+#Cmp ( order = Reference )
+| AE1        ANTENNA     ; H9161CT-ND  ;             
+| AE2        ANTENNA     ; ANT-418-SP-ND;             
+| C1         0.1uF       ; 1276-1012-1-ND;             
+| C2         0.1uF       ; 1276-1012-1-ND;             
+| C3         0.1uF       ; 1276-1012-1-ND;             
+| C4         0.1uF       ; 1276-1012-1-ND;             
+| C5         0.1uF       ; 1276-1012-1-ND;             
+| C6         0.1uF       ; 1276-1012-1-ND;             
+| C7         470uF       ; 493-6225-2-ND;             
+| C8         18pF        ; 1276-1089-1-ND;             
+| C9         18pF        ; 1276-1089-1-ND;             
+| C10        1uF         ; 311-1445-1-ND;             
+| C11        0.1uF       ; 1276-1012-1-ND;             
+| C12        470uF       ; 493-6225-2-ND;             
+| C13        0.1uF       ; 1276-1012-1-ND;             
+| C14        0.1uF       ; 1276-1012-1-ND;             
+| C15        10uF        ; 1276-1119-1-ND;             
+| C16        0.1uF       ; 1276-1012-1-ND;             
+| C17        470uF       ; 493-6225-2-ND;             
+| C18        0.1uF       ; 1276-1012-1-ND;             
+| C19        0.1uF       ; 1276-1012-1-ND;             
+| C20        10uF        ; 1276-1119-1-ND;             
+| C21        0.1uF       ; 1276-1012-1-ND;             
+| C22        10uF        ; 1276-1119-1-ND;             
+| C23        1uF         ; 311-1445-1-ND; 8.0         
+| C24        1uF         ; 311-1445-1-ND; 8.0         
+| C25        1uF         ; 311-1445-1-ND; 8.0         
+| C26        470uF       ; 493-6225-2-ND;             
+| C27        1uF         ; 311-1445-1-ND; 8.0         
+| C28        1uF         ; 311-1445-1-ND; 8.0         
+| C29        1uF         ; 311-1445-1-ND; 8.0         
+| C30        1uF         ; 311-1445-1-ND; 8.0         
+| CON1       USB-MINI-B  ; 151-1206-1-ND;             
+| D1         GPS_FIX     ; 160-1447-1-ND;             
+| D2         PESD5V0U2BT,215; 568-4296-1-ND;             
+| D3         PESD5V0U2BT,215; 568-4296-1-ND;             
+| D4         LEARN       ; 160-1447-1-ND;             
+| D5         5.1v        ; BZX84C5V1LT3GOSCT-ND;             
+| D6         5.1v        ; BZX84C5V1LT3GOSCT-ND;             
+| D7         5.1v        ; BZX84C5V1LT3GOSCT-ND;             
+| FID1       FIDUCIAL    ;             ;             
+| FID2       FIDUCIAL    ;             ;             
+| FID3       FIDUCIAL    ;             ;             
+| JP1        JUMPER_SMALL; 5104K-ND    ;             
+| JP2        JUMPER_SMALL; 5104K-ND    ;             
+| JP3        JUMPER_SMALL; 5104K-ND    ;             
+| JP4        JUMPER_SMALL; 5104K-ND    ;             
+| JP5        JUMPER_SMALL; 5104K-ND    ;             
+| JP6        JUMPER_SMALL; 5104K-ND    ;             
+| K1         MOTOR_PORT  ;             ;             
+| K2         MOTOR_STARBRD;             ;             
+| K3         SWITCHES_AND_LEDS;             ;             
+| K4         MOTOR_CENTER;             ;             
+| K5         BATTERY     ;             ;             
+| L1         FERRITE_BEAD; 732-1593-1-ND;             
+| L2         FERRITE_BEAD; 732-1593-1-ND;             
+| L3         FERRITE_BEAD; 732-1593-1-ND;             
+| L4         FERRITE_BEAD; 732-1593-1-ND;             
+| MP1        MOUNTING_HOLE;             ;             
+| MP2        MOUNTING_HOLE;             ;             
+| MP3        MOUNTING_HOLE;             ;             
+| MP4        MOUNTING_HOLE;             ;             
+| P1         ISP         ;             ;             
+| Q1         MOSFET_P    ; 785-1222-1-ND;             
+| R1         1k          ; RHM1.0KCGCT-ND;             
+| R2         1k          ; RHM1.0KCGCT-ND;             
+| R3         1k          ; RHM1.0KCGCT-ND;             
+| R4         1k          ; RHM1.0KCGCT-ND;             
+| R5         1k          ; RHM1.0KCGCT-ND;             
+| R6         1k          ; RHM1.0KCGCT-ND;             
+| R7         1k          ; RHM1.0KCGCT-ND;             
+| R8         1k          ; RHM1.0KCGCT-ND;             
+| R9         1k          ; RHM1.0KCGCT-ND;             
+| R10        22          ; RHM22CGCT-ND;             
+| R11        22          ; RHM22CGCT-ND;             
+| R12        1k          ; RHM1.0KCGCT-ND;             
+| R13        1k          ; RHM1.0KCGCT-ND;             
+| R14        1k          ; RHM1.0KCGCT-ND;             
+| R15        1k          ; RHM1.0KCGCT-ND;             
+| R16        1k          ; RHM1.0KCGCT-ND;             
+| R17        1k          ; RHM1.0KCGCT-ND;             
+| R18        1k          ; RHM1.0KCGCT-ND;             
+| R19        1k          ; RHM1.0KCGCT-ND;             
+| R20        1k          ; RHM1.0KCGCT-ND;             
+| R21        1k          ; RHM1.0KCGCT-ND;             
+| R22        100         ; RHM100CGCT-ND;             
+| R23        100         ; RHM100CGCT-ND;             
+| R24        100         ; RHM100CGCT-ND;             
+| R25        1k          ; RHM1.0KCGCT-ND;             
+| R26        1k          ; RHM1.0KCGCT-ND;             
+| R27        1k          ; RHM1.0KCGCT-ND;             
+| R28        100         ; RHM100CGCT-ND;             
+| R29        1k          ; RHM1.0KCGCT-ND;             
+| R30        1k          ; RHM1.0KCGCT-ND;             
+| R31        1k          ; RHM1.0KCGCT-ND;             
+| R32        1k          ; RHM1.0KCGCT-ND;             
+| R33        1k          ; RHM1.0KCGCT-ND;             
+| R34        1k          ; RHM1.0KCGCT-ND;             
+| R35        1k          ; RHM1.0KCGCT-ND;             
+| R36        1k          ; RHM1.0KCGCT-ND;             
+| R37        1k          ; RHM1.0KCGCT-ND;             
+| R38        1k          ; RHM1.0KCGCT-ND; 167.0       
+| R39        100k        ; RHM100KCGCT-ND; 161.0       
+| SW1        RESET       ; P12961SCT-ND;             
+| SW2        PROG        ; P12961SCT-ND;             
+| SW3        LEARN       ; P12961SCT-ND;             
+| U1         VNH5019     ; 497-13073-1-ND;             
+| U2         ATMEGA32U4-A; ATMEGA32U4-AURCT-ND;             
+| U3         VNH5019     ; 497-13073-1-ND;             
+| U4         R4_GPS      ; RXM-GPS-R4-TCT-ND;             
+| U5         VNH5019     ; 497-13073-1-ND;             
+| U6         MS_SERIES_DECODER; LICAL-DEC-MS001-ND;             
+| U7         LR_SERIES_RECEIVER; RXM-418-LR-ND;             
+| VR1        MCP1702     ; MCP1702T-3302E/CBCT-ND;             
+| VR2        LD29150     ; 497-7253-1-ND;             
+| X1         CRYSTAL_SMD_4PIN; 535-9122-1-ND;             
+#End Cmp
+
+#Cmp ( order = Value )
+| ANTENNA      AE1       ; H9161CT-ND  ;             
+| ANTENNA      AE2       ; ANT-418-SP-ND;             
+| 18pF         C8        ; 1276-1089-1-ND;             
+| 18pF         C9        ; 1276-1089-1-ND;             
+| 0.1uF        C1        ; 1276-1012-1-ND;             
+| 0.1uF        C2        ; 1276-1012-1-ND;             
+| 0.1uF        C3        ; 1276-1012-1-ND;             
+| 0.1uF        C4        ; 1276-1012-1-ND;             
+| 0.1uF        C5        ; 1276-1012-1-ND;             
+| 0.1uF        C6        ; 1276-1012-1-ND;             
+| 0.1uF        C11       ; 1276-1012-1-ND;             
+| 0.1uF        C13       ; 1276-1012-1-ND;             
+| 0.1uF        C14       ; 1276-1012-1-ND;             
+| 0.1uF        C16       ; 1276-1012-1-ND;             
+| 0.1uF        C18       ; 1276-1012-1-ND;             
+| 0.1uF        C19       ; 1276-1012-1-ND;             
+| 0.1uF        C21       ; 1276-1012-1-ND;             
+| 1uF          C10       ; 311-1445-1-ND;             
+| 1uF          C23       ; 311-1445-1-ND; 8.0         
+| 1uF          C24       ; 311-1445-1-ND; 8.0         
+| 1uF          C25       ; 311-1445-1-ND; 8.0         
+| 1uF          C27       ; 311-1445-1-ND; 8.0         
+| 1uF          C28       ; 311-1445-1-ND; 8.0         
+| 1uF          C29       ; 311-1445-1-ND; 8.0         
+| 1uF          C30       ; 311-1445-1-ND; 8.0         
+| 10uF         C15       ; 1276-1119-1-ND;             
+| 10uF         C20       ; 1276-1119-1-ND;             
+| 10uF         C22       ; 1276-1119-1-ND;             
+| 470uF        C7        ; 493-6225-2-ND;             
+| 470uF        C12       ; 493-6225-2-ND;             
+| 470uF        C17       ; 493-6225-2-ND;             
+| 470uF        C26       ; 493-6225-2-ND;             
+| USB-MINI-B   CON1      ; 151-1206-1-ND;             
+| 5.1v         D5        ; BZX84C5V1LT3GOSCT-ND;             
+| 5.1v         D6        ; BZX84C5V1LT3GOSCT-ND;             
+| 5.1v         D7        ; BZX84C5V1LT3GOSCT-ND;             
+| PESD5V0U2BT,215 D2        ; 568-4296-1-ND;             
+| PESD5V0U2BT,215 D3        ; 568-4296-1-ND;             
+| GPS_FIX      D1        ; 160-1447-1-ND;             
+| LEARN        D4        ; 160-1447-1-ND;             
+| FIDUCIAL     FID1      ;             ;             
+| FIDUCIAL     FID2      ;             ;             
+| FIDUCIAL     FID3      ;             ;             
+| JUMPER_SMALL JP1       ; 5104K-ND    ;             
+| JUMPER_SMALL JP2       ; 5104K-ND    ;             
+| JUMPER_SMALL JP3       ; 5104K-ND    ;             
+| JUMPER_SMALL JP4       ; 5104K-ND    ;             
+| JUMPER_SMALL JP5       ; 5104K-ND    ;             
+| JUMPER_SMALL JP6       ; 5104K-ND    ;             
+| MOTOR_PORT   K1        ;             ;             
+| MOTOR_STARBRD K2        ;             ;             
+| SWITCHES_AND_LEDS K3        ;             ;             
+| MOTOR_CENTER K4        ;             ;             
+| BATTERY      K5        ;             ;             
+| FERRITE_BEAD L1        ; 732-1593-1-ND;             
+| FERRITE_BEAD L2        ; 732-1593-1-ND;             
+| FERRITE_BEAD L3        ; 732-1593-1-ND;             
+| FERRITE_BEAD L4        ; 732-1593-1-ND;             
+| MOUNTING_HOLE MP1       ;             ;             
+| MOUNTING_HOLE MP2       ;             ;             
+| MOUNTING_HOLE MP3       ;             ;             
+| MOUNTING_HOLE MP4       ;             ;             
+| ISP          P1        ;             ;             
+| MOSFET_P     Q1        ; 785-1222-1-ND;             
+| 22           R10       ; RHM22CGCT-ND;             
+| 22           R11       ; RHM22CGCT-ND;             
+| 100          R22       ; RHM100CGCT-ND;             
+| 100          R23       ; RHM100CGCT-ND;             
+| 100          R24       ; RHM100CGCT-ND;             
+| 100          R28       ; RHM100CGCT-ND;             
+| 1k           R1        ; RHM1.0KCGCT-ND;             
+| 1k           R2        ; RHM1.0KCGCT-ND;             
+| 1k           R3        ; RHM1.0KCGCT-ND;             
+| 1k           R4        ; RHM1.0KCGCT-ND;             
+| 1k           R5        ; RHM1.0KCGCT-ND;             
+| 1k           R6        ; RHM1.0KCGCT-ND;             
+| 1k           R7        ; RHM1.0KCGCT-ND;             
+| 1k           R8        ; RHM1.0KCGCT-ND;             
+| 1k           R9        ; RHM1.0KCGCT-ND;             
+| 1k           R12       ; RHM1.0KCGCT-ND;             
+| 1k           R13       ; RHM1.0KCGCT-ND;             
+| 1k           R14       ; RHM1.0KCGCT-ND;             
+| 1k           R15       ; RHM1.0KCGCT-ND;             
+| 1k           R16       ; RHM1.0KCGCT-ND;             
+| 1k           R17       ; RHM1.0KCGCT-ND;             
+| 1k           R18       ; RHM1.0KCGCT-ND;             
+| 1k           R19       ; RHM1.0KCGCT-ND;             
+| 1k           R20       ; RHM1.0KCGCT-ND;             
+| 1k           R21       ; RHM1.0KCGCT-ND;             
+| 1k           R25       ; RHM1.0KCGCT-ND;             
+| 1k           R26       ; RHM1.0KCGCT-ND;             
+| 1k           R27       ; RHM1.0KCGCT-ND;             
+| 1k           R29       ; RHM1.0KCGCT-ND;             
+| 1k           R30       ; RHM1.0KCGCT-ND;             
+| 1k           R31       ; RHM1.0KCGCT-ND;             
+| 1k           R32       ; RHM1.0KCGCT-ND;             
+| 1k           R33       ; RHM1.0KCGCT-ND;             
+| 1k           R34       ; RHM1.0KCGCT-ND;             
+| 1k           R35       ; RHM1.0KCGCT-ND;             
+| 1k           R36       ; RHM1.0KCGCT-ND;             
+| 1k           R37       ; RHM1.0KCGCT-ND;             
+| 1k           R38       ; RHM1.0KCGCT-ND; 167.0       
+| 100k         R39       ; RHM100KCGCT-ND; 161.0       
+| RESET        SW1       ; P12961SCT-ND;             
+| PROG         SW2       ; P12961SCT-ND;             
+| LEARN        SW3       ; P12961SCT-ND;             
+| R4_GPS       U4        ; RXM-GPS-R4-TCT-ND;             
+| MS_SERIES_DECODER U6        ; LICAL-DEC-MS001-ND;             
+| LR_SERIES_RECEIVER U7        ; RXM-418-LR-ND;             
+| ATMEGA32U4-A U2        ; ATMEGA32U4-AURCT-ND;             
+| VNH5019      U1        ; 497-13073-1-ND;             
+| VNH5019      U3        ; 497-13073-1-ND;             
+| VNH5019      U5        ; 497-13073-1-ND;             
+| LD29150      VR2       ; 497-7253-1-ND;             
+| MCP1702      VR1       ; MCP1702T-3302E/CBCT-ND;             
+| CRYSTAL_SMD_4PIN X1        ; 535-9122-1-ND;             
+#End Cmp
+
+#End List

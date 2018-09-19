@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0  Date: Thu 11 Jun 2015 06:50:20 PM MDT
+#
+$CMP ADAFRUIT_RF_RECEIVER
+D Adafruit RF receiver (http://www.adafruit.com/product/1096)
+$ENDCMP
+#
+$CMP CONN_5A
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+#End Doc Library

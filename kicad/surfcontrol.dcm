@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADAFRUIT_RF_RECEIVER
+D Adafruit RF receiver (http://www.adafruit.com/product/1096)
+$ENDCMP
+#
+#End Doc Library
