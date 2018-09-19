@@ -2,11 +2,13 @@
 Feel free to make use of the hardware and software designs here for your project. The board design utilizes:
 3 ST Micro motor drivers,
 1 Lynx GPS Module, and
-1 Microchip BLE Module
+1 Microchip BLE Module.
 
 It is designed to fit into a Cinch ModeICE enclosure.
 
-The hardware/software design supports up to a 10 wire, 5 volt control cable with 2 potentiometers, 3 momentary switches, and 3 LED indicators
+The hardware/software design supports up to a 10 wire, 5 volt control cable with 2 potentiometers, 3 momentary switches, and 3 LED indicators.
+
+It can drive up to 3 12v motors/actuators.  Or one of the ST Micro chips can be configured as two 12v outputs for lights, horns, etc...
 
 The board is designed to run on 12v power from a marine or automotive alternator, so it'll handle fluctuations and noise.
 
