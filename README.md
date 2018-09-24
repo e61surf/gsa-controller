@@ -1,4 +1,6 @@
 # Surf System Controller - or whatever you want to control...
+Itunes link for the iOS app that works with the controller.  This is an example of how the BLE module on the board can be used.  https://itunes.apple.com/us/app/surf-controller/id1203117403?mt=8
+
 Feel free to make use of the hardware and software designs here for your project. The board design utilizes:
 3 ST Micro motor drivers,
 1 Lynx GPS Module, and
