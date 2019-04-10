@@ -1,5 +1,6 @@
 # Surf System Controller - or whatever you want to control...
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/61ba1ccdf0874b5f88fdd2c0c29fdbb0)](https://www.codacy.com/app/david_78/gsa-controller?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=e61surf/gsa-controller&amp;utm_campaign=Badge_Grade)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/e61surf/gsa-controller.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/e61surf/gsa-controller/alerts/)
 
 Feel free to make use of the hardware and software designs here for your project. The board design utilizes:
 3 ST Micro motor drivers,
