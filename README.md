@@ -1,5 +1,5 @@
 # Surf System Controller - or whatever you want to control...
-Itunes link for the iOS app that works with the controller.  This is an example of how the BLE module on the board can be used.  https://itunes.apple.com/us/app/surf-controller/id1203117403?mt=8
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/61ba1ccdf0874b5f88fdd2c0c29fdbb0)](https://www.codacy.com/app/david_78/gsa-controller?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=e61surf/gsa-controller&amp;utm_campaign=Badge_Grade)
 
 Feel free to make use of the hardware and software designs here for your project. The board design utilizes:
 3 ST Micro motor drivers,
